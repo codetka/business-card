@@ -37,6 +37,7 @@ body {
 
 .card:hover {
     opacity: 0.7;
+    background: #370617;
 }
 
 .border-blue {
